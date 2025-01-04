@@ -1,0 +1,12 @@
+[submodule "CUDA/cuda-exploration"]
+	path = CUDA/cuda-exploration
+	url = https://github.com/satabios/cuda-exploration/
+[submodule "CUDA/parallel-computing-tutorial"]
+	path = CUDA/parallel-computing-tutorial
+	url = https://github.com/mit-han-lab/parallel-computing-tutorial/
+[submodule "CUDA/Learn-CUDA-Programming"]
+	path = CUDA/Learn-CUDA-Programming
+	url = https://github.com/satabios/Learn-CUDA-Programming
+[submodule "llm/llm-exploration"]
+	path = llm/llm-exploration
+	url = https://github.com/satabios/llm-exploration
